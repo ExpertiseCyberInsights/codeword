@@ -5,7 +5,7 @@ os.system("clear")
 print("\033[1;32;40m CyberClan The IT society of SGNDKC\n")
 print("\033[1;33;40m This tool halping you to get new hint for your new question\n")
  
-print("""\033[1;32;40m                                                                               _____
+print("""                                                                               _____
 
  $$$$$$\            $$\                            $$$$$$\  $$\                     
 $$  __$$\           $$ |                          $$  __$$\ $$ |                    
